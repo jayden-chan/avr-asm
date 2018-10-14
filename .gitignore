@@ -1,0 +1,9 @@
+# Vim swap files
+*.swp
+
+# Auto generated files
+*.cof
+*.eep.hex
+*.obj
+*.hex
+inc
